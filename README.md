@@ -1,7 +1,6 @@
 # MONOGON REVISION 7
+***To whom it may concern...***
 ```
-To whom it may concern...
-
 Hello github user!
 This sorry excuse of a "Game Engine" is being "worked on" by two lazy developers who RARELY get things working properly.
 This is under the MIT license so if you're desperate enough to need to learn from our code (please reconsider) you may do so.
