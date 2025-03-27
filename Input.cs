@@ -10,15 +10,21 @@ public static class Input
     {
         public enum BindableActions
         {
+            // Top-down only
             MoveForward,
             MoveBackward,
+            
             MoveLeft,
             MoveRight,
-            
+
+            // Top-down only
             FaceForward,
             FaceBackward,
             FaceLeft,
             FaceRight,
+
+            // Flat-2D only
+            Jump,
             
             OpenMenu,
             Interact,
