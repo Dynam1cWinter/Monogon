@@ -44,7 +44,7 @@ public static class Input
         public static Keybind faceRightKey = new Keybind(Keys.Right);
         
         // Open Esc manu, Interaction, Menu Confirmation.
-        // For QoL reasons interaction and confirmation will always activate each other, this can be disabled.
+        // For QoL reasons interaction and confirmation will always activate each other uness specified by code, this can be disabled.
         public static Keybind openMenuKey = new Keybind(Keys.Escape);
         public static Keybind interactKey = new Keybind(Keys.E);
         public static Keybind confirmKey = new Keybind(Keys.Enter);
