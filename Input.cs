@@ -6,6 +6,8 @@ namespace Monogon.Engine;
 
 public static class Input
 {
+// Outdated, being reworked from the ground-up for 3D rather then 2D.
+    
     public static class Bindings
     {
         public enum BindableActions
@@ -17,13 +19,11 @@ public static class Input
             MoveLeft,
             MoveRight,
 
-            // Top-down only
             FaceForward,
             FaceBackward,
             FaceLeft,
             FaceRight,
 
-            // Flat-2D only
             Jump,
             
             OpenMenu,
